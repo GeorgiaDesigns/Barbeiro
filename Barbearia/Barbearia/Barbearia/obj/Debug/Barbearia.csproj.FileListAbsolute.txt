@@ -1,0 +1,9 @@
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\bin\Debug\Barbearia.exe.config
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\bin\Debug\Barbearia.exe
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\bin\Debug\Barbearia.pdb
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\obj\Debug\Barbearia.csprojResolveAssemblyReference.cache
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\obj\Debug\Barbearia.Form1.resources
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\obj\Debug\Barbearia.Properties.Resources.resources
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\obj\Debug\Barbearia.csproj.GenerateResource.Cache
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\obj\Debug\Barbearia.exe
+Z:\Sistemas Operacionais\Barbearia\Barbearia\Barbearia\obj\Debug\Barbearia.pdb
